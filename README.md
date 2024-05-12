@@ -19,7 +19,7 @@ El portafolio se dividió en las siguientes secciones:
 <p>1. Clonar el repositorio</p>
 
 ```
-git clone https://github.com/ericklasluisa/Gestion-Vehicular-React.git
+git clone https://github.com/Fuerzas-Armadas-ESPE/portafolio-ericklasluisa.git
 ```
 
 <p>2. Instalar las dependencias</p>
